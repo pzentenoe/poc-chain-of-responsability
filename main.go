@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	models "github.com/pzentenoe/chain-of-responsability/domain/usecase"
+	models "github.com/pzentenoe/poc-chain-of-responsability/domain/usecase"
 	"gopkg.in/yaml.v3"
 	"io"
 	"net/http"
